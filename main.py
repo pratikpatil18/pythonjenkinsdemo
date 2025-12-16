@@ -1,2 +1,2 @@
-print("Hello world")
-print("This is a sample Python code || v7")
+print("Hello new buid")
+print("This is a sample Python code || v8.0")
